@@ -16,4 +16,3 @@ function factorial($number) {
 // Тестування функції
 $testNumber = 5;
 echo "Факторіал числа $testNumber дорівнює: " . factorial($testNumber);
-?>

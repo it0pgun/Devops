@@ -10,4 +10,3 @@ function checkEvenOdd($number) {
 // Тестування функції
 $testNumber = 4;
 echo checkEvenOdd($testNumber);
-?>
